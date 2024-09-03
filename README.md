@@ -9,52 +9,36 @@
 
 ## Languages and Tools:
 
-<a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap" alt="Bootstrap"/>
-</a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-sharp" alt="C#"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3" alt="CSS3"/>
-</a>
-<a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net" alt=".NET"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" alt="Git"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5" alt="HTML5"/>
-</a>
 <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java" alt="Java"/>
-</a>
-<a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript" alt="JavaScript"/>
-</a>
-<a href="https://laravel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel" alt="Laravel"/>
-</a>
-<a href="https://www.kernel.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux" alt="Linux"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL"/>
-</a>
-<a href="https://www.php.net/" target="_blank">
-    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php" alt="PHP"/>
-</a>
-<a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python" alt="Python"/>
 </a>
 <a href="https://spring.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring" alt="Spring"/>
 </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-sharp" alt="C#"/>
+</a>
+<a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net" alt=".NET"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python" alt="Python"/>
+</a>
+<a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript" alt="JavaScript"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5" alt="HTML5"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3" alt="CSS3"/>
+</a>
 <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css" alt="Tailwind CSS"/>
 </a>
-
+<a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL"/>
+</a>
 
 ## GitHub Stats
 ![Goran's GitHub stats](https://github-readme-stats.vercel.app/api?username=groso97&show_icons=true&theme=radical)
