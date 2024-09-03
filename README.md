@@ -5,7 +5,7 @@
 - 📫 How to reach me **gogo.roso@gmail.com**
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goran-roso-bb07b6268/)](https://www.linkedin.com/in/goran-roso-bb07b6268/)
 
 ## Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java)
@@ -18,9 +18,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3)
 
 ## GitHub Stats
-![Goran's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Goran's GitHub stats](https://github-readme-stats.vercel.app/api?username=groso97&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groso97&layout=compact&theme=radical)
 
 ## About Me
 Hey there! 👋 I'm Goran, a 26-year-old full-stack developer hailing from the beautiful city of Zagreb, Croatia. I'm currently wrapping up my Master's degree in Information Systems at Veleučilište Velika Gorica, and I’m super excited about what the future holds in the tech world.
