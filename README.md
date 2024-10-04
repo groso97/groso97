@@ -2,8 +2,8 @@
 
 **Aspiring backend developer from Croatia**
 
-📚 Currently learning Spring Boot
-🌱 Excited to build and grow my skills in backend technologies
+- 📚 Currently learning Spring Boot
+- 🌱 Excited to build and grow my skills in backend technologies
 - 📫 How to reach me **gogo.roso@gmail.com**
 
 ## Connect with me:
