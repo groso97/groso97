@@ -1,6 +1,6 @@
 # Hi 👋, I'm Goran
 
-**Full stack developer from Croatia**
+**Aspiring backend developer from Croatia**
 
 - 📫 How to reach me **gogo.roso@gmail.com**
 
