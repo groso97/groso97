@@ -1,6 +1,6 @@
 # Hi 👋, I'm Goran
 
-I'm Goran, a 26-year-old full-stack developer hailing from the beautiful city of Zagreb, Croatia. I'm currently wrapping up my Master's degree in Information Systems at Veleučilište Velika Gorica, and I’m super excited about what the future holds in the tech world.
+I'm Goran, a 27-year-old full-stack developer hailing from the beautiful city of Zagreb, Croatia. I'm currently wrapping up my Master's degree in Information Systems at Veleučilište Velika Gorica, and I’m super excited about what the future holds in the tech world.
 
 When I’m not buried in code or studying, you'll probably find me gaming my way through the latest releases 🎮 or hitting the gym to stay in shape 🏋️‍♂️. I love a good challenge, whether it’s solving a complex problem in a project or leveling up in a game.
 
