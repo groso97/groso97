@@ -13,6 +13,7 @@ I’m passionate about learning new technologies, building innovative applicatio
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goran-roso-bb07b6268/)](https://www.linkedin.com/in/goran-roso-bb07b6268/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gogo.roso@gmail.com)](mailto:gogo.roso@gmail.com)
+[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://goran-roso.algo-solutions.net/)](https://goran-roso.algo-solutions.net/)
 
 ## Languages and Tools:
 
