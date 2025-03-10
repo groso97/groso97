@@ -1,6 +1,10 @@
 # Hi 👋, I'm Goran
 
-**Aspiring backend developer from Croatia**
+I'm Goran, a 26-year-old full-stack developer hailing from the beautiful city of Zagreb, Croatia. I'm currently wrapping up my Master's degree in Information Systems at Veleučilište Velika Gorica, and I’m super excited about what the future holds in the tech world.
+
+When I’m not buried in code or studying, you'll probably find me gaming my way through the latest releases 🎮 or hitting the gym to stay in shape 🏋️‍♂️. I love a good challenge, whether it’s solving a complex problem in a project or leveling up in a game.
+
+I’m passionate about learning new technologies, building innovative applications, and constantly pushing the boundaries of what's possible. Let's connect and create something awesome together!
 
 - 📚 Currently learning Spring Boot
 - 🌱 Excited to build and grow my skills in backend technologies
@@ -8,6 +12,7 @@
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goran-roso-bb07b6268/)](https://www.linkedin.com/in/goran-roso-bb07b6268/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gogo.roso@gmail.com)](mailto:gogo.roso@gmail.com)
 
 ## Languages and Tools:
 
@@ -46,15 +51,3 @@
 ![Goran's GitHub stats](https://github-readme-stats.vercel.app/api?username=groso97&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groso97&layout=compact&theme=radical)
-
-## About Me
-Hey there! 👋 I'm Goran, a 26-year-old full-stack developer hailing from the beautiful city of Zagreb, Croatia. I'm currently wrapping up my Master's degree in Information Systems at Veleučilište Velika Gorica, and I’m super excited about what the future holds in the tech world.
-
-When I’m not buried in code or studying, you'll probably find me gaming my way through the latest releases 🎮 or hitting the gym to stay in shape 🏋️‍♂️. I love a good challenge, whether it’s solving a complex problem in a project or leveling up in a game.
-
-I’m passionate about learning new technologies, building innovative applications, and constantly pushing the boundaries of what's possible. Let's connect and create something awesome together!
-
-
-
-
-
